@@ -7,8 +7,12 @@
    * **Classification:**  *A classification problem is when the output variable is a category, such as “Malignant” or “Benign”.*
    * **Regression:** *A regression problem is when the output variable is a real value, such as “dollars” or “weight”.*
 *  **Unsupervised Learning:** Unsupervised learning is where you only have input data (X) and no corresponding output variables.
+   * **Clustering:**  *A clustering problem is where you want to discover the inherent groupings in the data, such as grouping customers by purchasing 
+behavior.*
+   * **Regression:** *An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to   to buy y*
 
- ## 1.Data Preprocessing
+
+ ## Data Preprocessing
 * Data Preprocessing is  an importing step that needs to be done before implementing any machine learning model.
   * Importing the Libraries
   * Importing the datasets
