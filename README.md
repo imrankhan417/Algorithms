@@ -21,3 +21,6 @@ behavior.*
   * Splitting the data set into training set and test set
   * feature scaling
 
+## Regression
+* ### Simple Linear Regression:
+   
