@@ -24,4 +24,5 @@ behavior.*
 ## Regression
 * ### Simple Linear Regression:
 * ### Multi linear regression
+* ### polynomial
    
