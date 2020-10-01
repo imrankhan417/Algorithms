@@ -5,9 +5,12 @@ Created on Sat Jul 18 21:29:35 2020
 @author: mehaf
 """
 #importing the librarires
+#importing the numpy as np
 import numpy as np
 import matplotlib.pyplot as plt
+#importing the pandas as pd
 import pandas as pd
+#done
 #importing the dataset
 dataset=pd.read_csv('Data.csv')
 x=dataset.iloc[:,:-1].values
